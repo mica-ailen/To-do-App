@@ -14,8 +14,7 @@
 
 <h2>What have I learned? 💪🏼 </h2>
 
-•	How to create an application from scratch with React ![image](https://user-images.githubusercontent.com/101481046/218076245-8aff93f3-9f15-4e71-8447-418925992355.png)
-
+•	How to create an application from scratch with React 
 
 •	How to use React Hooks so that the user can add new items to the task list, edit them, delete them and choose which ones are complete
 
