@@ -4,7 +4,7 @@
 
 <p>The goal of this project is to create an application to add the list of things that you have to do. In it, you can add new tasks, delete them, edit them and put that they are complete.</p>
 
-<h3>What tech have I use?🙋</h3>
+<h2>What tech have I use?🙋</h2>
 
 •	React<br>
 
@@ -12,9 +12,10 @@
 
 •	React Hooks<br>
 
-<h3>What have I learned? 💪🏼 </h3>
+<h2>What have I learned? 💪🏼 </h2>
 
-•	How to create an application from scratch with React
+•	How to create an application from scratch with React ![image](https://user-images.githubusercontent.com/101481046/218076245-8aff93f3-9f15-4e71-8447-418925992355.png)
+
 
 •	How to use React Hooks so that the user can add new items to the task list, edit them, delete them and choose which ones are complete
 
