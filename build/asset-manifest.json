@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Task-management-Productivity-App/static/css/main.554a35b2.css",
+    "main.js": "/Task-management-Productivity-App/static/js/main.36b77e0d.js",
+    "index.html": "/Task-management-Productivity-App/index.html",
+    "main.554a35b2.css.map": "/Task-management-Productivity-App/static/css/main.554a35b2.css.map",
+    "main.36b77e0d.js.map": "/Task-management-Productivity-App/static/js/main.36b77e0d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.554a35b2.css",
+    "static/js/main.36b77e0d.js"
+  ]
+}
