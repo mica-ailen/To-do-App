@@ -21,4 +21,4 @@
 • I was able to review how to use the ternary operator and the Handling Events
 
 
-<h3>If you want to watch it live 😊:</h3> https://mica-ailen.github.io/Task-management-Productivity-App
+<h3>If you want to watch it live 😊:</h3> https://mica-ailen.github.io/task-management-productivity-app
