@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Task-management-Productivity-App/static/css/main.554a35b2.css",
-    "main.js": "/Task-management-Productivity-App/static/js/main.36b77e0d.js",
-    "index.html": "/Task-management-Productivity-App/index.html",
-    "main.554a35b2.css.map": "/Task-management-Productivity-App/static/css/main.554a35b2.css.map",
-    "main.36b77e0d.js.map": "/Task-management-Productivity-App/static/js/main.36b77e0d.js.map"
+    "main.css": "/task-management-productivity-app/static/css/main.f4d5cce3.css",
+    "main.js": "/task-management-productivity-app/static/js/main.a55971b4.js",
+    "index.html": "/task-management-productivity-app/index.html",
+    "main.f4d5cce3.css.map": "/task-management-productivity-app/static/css/main.f4d5cce3.css.map",
+    "main.a55971b4.js.map": "/task-management-productivity-app/static/js/main.a55971b4.js.map"
   },
   "entrypoints": [
-    "static/css/main.554a35b2.css",
-    "static/js/main.36b77e0d.js"
+    "static/css/main.f4d5cce3.css",
+    "static/js/main.a55971b4.js"
   ]
 }
